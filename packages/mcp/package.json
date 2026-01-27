@@ -69,7 +69,7 @@
   },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.8.0",
-    "diff": "^7.0.0",
+    "diff": "^8.0.3",
     "eventsource": "^3.0.2",
     "express": "^4.21.2"
   },
